@@ -59,12 +59,5 @@ Empreendedor, desenvolvedor, criador de experiências, e às vezes só um cara t
 
 ---
 
-## 📈 Stats do Caos
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedroodelvalle&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroodelvalle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 > "No início era o push... e o push era o verbo."  
 > Um dia esse perfil vai fazer sentido completo. Hoje, ele só dá pistas.
