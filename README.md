@@ -1,9 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0D1117&fontColor=FFFFFF&fontSize=32&text=Pedro%20Del%20Valle&desc=Empreendedor%20desde%20os%2017.%20Agora%20construindo%20a%20Uber%20da%20Creator%20Economy."
-    alt="Pedro Del Valle — Empreendedor desde os 17. Agora construindo a Uber da Creator Economy."
-  />
+  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="140">
+    <rect width="100%" height="100%" fill="#0D1117"/>
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="28" font-family="Arial">
+      Pedro Del Valle
+    </text>
+    <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="16" font-family="Arial">
+      Empreendedor desde os 17. Agora construindo a Uber da Creator Economy.
+    </text>
+  </svg>
 </p>
 
 ---
