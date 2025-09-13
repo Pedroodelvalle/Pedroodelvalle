@@ -29,10 +29,6 @@ A **Conty** é o app que torna isso rápido, acessível e divertido.
 - Site: [appconty.com](https://www.appconty.com/)  
 - Artigo: [Quem sou eu e a visão por trás da Conty](https://www.appconty.com/blog/pedro-del-valle-o-fundador-por-tras-da-conty-e-sua-visao-sobre-o-futuro-dos-criadores)  
 
-<p align="center">
-  <img src="https://dummyimage.com/1000x300/0d1117/ffffff&text=Conty:+Criar+conte%C3%BAdo+sem+complica%C3%A7%C3%A3o" alt="Conty — Criar conteúdo sem complicação">
-</p>
-
 ---
 
 ## Stack
