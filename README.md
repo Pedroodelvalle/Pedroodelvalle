@@ -23,8 +23,8 @@ Agora meu foco é um só: **construir a Uber da Creator Economy**.
 ## O que eu estou construindo
 
 ### Conty
-Criar conteúdo não precisa ser complicado.  
-A **Conty** é o app que torna isso rápido, acessível e divertido.  
+Qualquer pessoa pode ganhar dinheiro gravando conteúdo pra marcas. 
+E qualquer marca pode viralizar com ADS feitos por pessoas comuns. 
 
 - Site: [appconty.com](https://www.appconty.com/)  
 - Artigo: [Quem sou eu e a visão por trás da Conty](https://www.appconty.com/blog/pedro-del-valle-o-fundador-por-tras-da-conty-e-sua-visao-sobre-o-futuro-dos-criadores)  
