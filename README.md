@@ -1,11 +1,24 @@
-## O que eu estou construindo
+### Whoami
+
+```dart
+class PedroDeboni extends Founder implements VisionaryBuilder {
+  @override
+  final Map<String, Object> data = {
+    'work': 'Founder & CEO at Conty',
+    'mission': 'Building the "Uber" of the Creator Economy',
+    'age': '🦅 22',
+    'address': '🌍 São Paulo - Brazil',
+    'languages': ['Dart/Flutter', 'Go', 'TypeScript', 'JavaScript', 'Swift'],
+  };
+
+  @override
+  String academicBackground = 'Dropout turned Builder';
+  String technicalFocus = 'Product | Growth | Backend/Infra | AI & Creator Economy';
+}
+
+```
 
 <h3 style="font-weight:600;">Conty</h3>
-
-<p style="font-size:16px; line-height:1.6; max-width:700px;">
-Qualquer pessoa pode ganhar dinheiro gravando conteúdo pra marcas.<br/>
-E qualquer marca pode viralizar com anúncios feitos por pessoas comuns.
-</p>
 
 - Site: [appconty.com](https://www.appconty.com/)  
 - Artigo: [Visão por trás da Conty](https://www.appconty.com/blog/pedro-del-valle-o-fundador-por-tras-da-conty-e-sua-visao-sobre-o-futuro-dos-criadores)  
