@@ -42,7 +42,6 @@ Alguns projetos já disponíveis:
 
 ## Minha Stack
 
----
 
 <p align="center">
   <a href="https://skillicons.dev">
