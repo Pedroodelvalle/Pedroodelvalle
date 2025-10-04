@@ -40,17 +40,6 @@ Alguns projetos já disponíveis:
 
 ---
 
-## Minha Stack
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,swift,ts,js,nextjs,go,py,postgres,supabase,figma,git,github,vscode&perline=8" />
-  </a>
-</p>
-
----
-
 ## Contatos
 
 * [LinkedIn](https://www.linkedin.com/in/pedro-del-valle-conty/)
