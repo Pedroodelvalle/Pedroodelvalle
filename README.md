@@ -1,54 +1,60 @@
 # Pedro Del Valle
 
-Founder & CEO at [Conty](https://www.appconty.com) — building the infrastructure for authentic creator commerce.
+> Founder & CEO na [Conty](https://www.appconty.com) — construindo a infraestrutura para um comércio criador autêntico.
 
-22 years old. São Paulo, Brazil. Dropout.
-
----
-
-## Context
-
-In a world increasingly dominated by AI, authenticity becomes the last frontier. That's what we're building at Conty: a platform where anyone can earn money promoting products they genuinely love, naturally and spontaneously, just by sharing their story.
-
-We're creating the "Uber" of the creator economy — connecting brands with authentic voices at scale.
-
-[What is Conty?](https://www.appconty.com) — [Our mission](https://www.appconty.com/sobre-nos) — [My story](https://www.appconty.com/blog/pedro-del-valle-o-fundador-por-tras-da-conty-e-sua-visao-sobre-o-futuro-dos-criadores)
+- 22 anos, São Paulo — Brasil  
+- Dropout por escolha, sempre em modo builder  
+- Obcecado por produtos que alinham tecnologia, narrativa e negócios
 
 ---
 
-## Open Source
+## Por que Conty existe
 
-I believe in building in public. Here's what we're sharing:
+Num universo saturado por IA e conteúdos sintéticos, autenticidade virou o recurso mais escasso. A Conty nasce para devolver credibilidade às recomendações: permitimos que qualquer pessoa monetize indicando produtos que realmente usa, transformando histórias reais em canais de aquisição previsíveis para marcas.
 
-**[Conty Organization](https://github.com/Conty-App)**
+Estamos criando o “Uber” da creator economy: conectamos marcas e vozes autênticas em tempo real, com dados, governança e escala.
 
-- [Backend Challenge](https://github.com/Conty-App/conty-backend-challenge) — Technical assessment for backend positions
-- [Camera + Teleprompter](https://github.com/Conty-App/camera-swift) — Professional camera app in Swift
-- [JSON Canvas Viewer](https://github.com/Conty-App/JsonCanvasViewer) — Canvas visualization in Flutter/Dart
-- [Awesome UGC Dataset](https://github.com/Conty-App/awesome-ugc-ads-brazil) — Brazilian UGC ads dataset
-
----
-
-## Current Focus
-
-Building Conty to scale. Learning system architecture. Sharing knowledge with the community.
+- [O que é a Conty?](https://www.appconty.com)  
+- [Nossa missão](https://www.appconty.com/sobre-nos)  
+- [Minha história](https://www.appconty.com/blog/pedro-del-valle-o-fundador-por-tras-da-conty-e-sua-visao-sobre-o-futuro-dos-criadores)
 
 ---
 
-## Connect
+## Open Source & Recursos
 
-- [LinkedIn](https://www.linkedin.com/in/pedro-del-valle-conty/)
-- [Email](mailto:pedrodv@appconty.com)
+Acreditamos em construir em público e compartilhar aprendizados que acelerem criadores e engenheiros.
+
+**[GitHub da Conty](https://github.com/Conty-App)**
+
+- [Backend Challenge](https://github.com/Conty-App/conty-backend-challenge) — avaliação técnica para o time de backend  
+- [Camera + Teleprompter](https://github.com/Conty-App/camera-swift) — app de captação profissional em Swift  
+- [JSON Canvas Viewer](https://github.com/Conty-App/JsonCanvasViewer) — visualização de canvases em Flutter/Dart  
+- [Awesome UGC Dataset](https://github.com/Conty-App/awesome-ugc-ads-brazil) — curadoria de anúncios UGC brasileiros
+
+---
+
+## Em que estou focado agora
+
+- Escalar a Conty do MVP para operação repetível e rentável  
+- Aprimorar arquitetura de sistemas distribuídos (pagamentos, roteamento de campanhas e attribution)  
+- Compartilhar bastidores com a comunidade e atrair pessoas que acreditam no mesmo problema
+
+---
+
+## Vamos nos conectar
+
+- [LinkedIn](https://www.linkedin.com/in/pedro-del-valle-conty/)  
+- [Email](mailto:pedrodv@appconty.com)  
 - [Instagram](https://www.instagram.com/conty.app)
 
 ---
 
 ```dart
 class PedroDeboni extends Founder {
-  final String mission = 'Build authentic creator economy infrastructure';
-  final bool dropout = true;
-  final int age = 22;
-  
+  final mission = 'Construir a infraestrutura da economia de criadores autêntica';
+  final dropout = true;
+  final age = 22;
+
   @override
   void work() {
     while (true) {
