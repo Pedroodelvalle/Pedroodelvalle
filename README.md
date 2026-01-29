@@ -2,7 +2,7 @@
 
 Founder & CEO at [Conty](https://www.appconty.com) — building the infrastructure for authentic creator commerce.
 
-22 years old. São Paulo, Brazil. Dropout.
+23 years old. São Paulo, Brazil. Dropout.
 
 ---
 
