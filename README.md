@@ -1,6 +1,7 @@
 # Pedro Del Valle
 
 Founder & CEO at [Conty](https://www.appconty.com) — building the infrastructure for creator economy.
+
 23 years old. São Paulo, Brazil.
 
 ## Connect
